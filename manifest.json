@@ -5,7 +5,7 @@
     "scope": "/",
     "display": "standalone",
     "short_name": "Coffee App",
-    "theme_color": "#472D21",
+    "theme_color": "#9400d3",
     "background_color": "#FFFFFF",
     "icons": [
         {
