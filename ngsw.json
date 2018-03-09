@@ -1,0 +1,51 @@
+{
+  "configVersion": 1,
+  "index": "https://nerdeveloper.github.io/angular-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://nerdeveloper.github.io/angular-pwa/index.html",
+        "https://nerdeveloper.github.io/angular-pwa/manifest.json",
+        "https://nerdeveloper.github.io/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://nerdeveloper.github.io/angular-pwa/main.2e56a0f499323e21f376.bundle.js",
+        "https://nerdeveloper.github.io/angular-pwa/polyfills.a899d0f6ae76e486a736.bundle.js",
+        "https://nerdeveloper.github.io/angular-pwa/styles.e233fcd90cab024d900a.bundle.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.gstatic\\.com\\/s\\/materialicons\\/v36\\/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ\\.woff2",
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "https:\\/\\/pwadb\\.azurewebsites\\.net\\/coffees"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "timeoutMs": 60000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "https://nerdeveloper.github.io/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://nerdeveloper.github.io/angular-pwa/main.2e56a0f499323e21f376.bundle.js": "bf66110b6d909ceb05e8c93759b76820c213384c",
+    "https://nerdeveloper.github.io/angular-pwa/polyfills.a899d0f6ae76e486a736.bundle.js": "e7567c8117f5d34b42f39ec33c2fcb7f1af13ba8",
+    "https://nerdeveloper.github.io/angular-pwa/styles.e233fcd90cab024d900a.bundle.css": "b277b8ef58b160c5c429079c29ee459feea5b08c",
+    "https://nerdeveloper.github.io/angular-pwa/index.html": "8335bfac9a0fc9b80d6b62e4b4a0eb2702d93d23",
+    "https://nerdeveloper.github.io/angular-pwa/manifest.json": "40a31db9f29425226c11494c52e856522e3f5799"
+  }
+}
