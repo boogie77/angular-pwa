@@ -11,7 +11,7 @@
         "https://nerdeveloper.github.io/angular-pwa/manifest.json",
         "https://nerdeveloper.github.io/angular-pwa/ngsw-worker.js",
         "https://nerdeveloper.github.io/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://nerdeveloper.github.io/angular-pwa/main.9d9b691210d76209c695.bundle.js",
+        "https://nerdeveloper.github.io/angular-pwa/main.f7447e893c23424cbac0.bundle.js",
         "https://nerdeveloper.github.io/angular-pwa/polyfills.a899d0f6ae76e486a736.bundle.js",
         "https://nerdeveloper.github.io/angular-pwa/styles.97bdf6ff8498b58520ec.bundle.css"
       ],
@@ -43,10 +43,10 @@
   ],
   "hashTable": {
     "https://nerdeveloper.github.io/angular-pwa/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "https://nerdeveloper.github.io/angular-pwa/main.9d9b691210d76209c695.bundle.js": "964704f16671aee5c978387c29f573a3e261e79e",
+    "https://nerdeveloper.github.io/angular-pwa/main.f7447e893c23424cbac0.bundle.js": "df579f97f9aae3234046e685736528b2c389ff75",
     "https://nerdeveloper.github.io/angular-pwa/polyfills.a899d0f6ae76e486a736.bundle.js": "e7567c8117f5d34b42f39ec33c2fcb7f1af13ba8",
     "https://nerdeveloper.github.io/angular-pwa/styles.97bdf6ff8498b58520ec.bundle.css": "b0268e489f10d58a8b51f0281478bba78c37f00a",
-    "https://nerdeveloper.github.io/angular-pwa/index.html": "0c1c2301bf8fc3cff7e6269d36fa9a36d60f717d",
+    "https://nerdeveloper.github.io/angular-pwa/index.html": "57c2dd7abff0a4bda4b03aed861a10545e8a405b",
     "https://nerdeveloper.github.io/angular-pwa/manifest.json": "f0d5fb4b3a9c6d08ff2e2c8a90e6e8baeeebfc1b",
     "https://nerdeveloper.github.io/angular-pwa/ngsw-worker.js": "cc9f9d13e189ccf4b9ec7f2734786cf6dc775c9d"
   }
