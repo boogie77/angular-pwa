@@ -20,7 +20,8 @@
       "patterns": [
         "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
         "https:\\/\\/fonts\\.gstatic\\.com\\/.*",
-        "https:\\/\\/pwadb\\.azurewebsites\\.net\\/.*"
+        "https:\\/\\/pwadb\\.azurewebsites\\.net\\/.*",
+        "https:\\/\\/ngpwa\\.azurewebsites\\.net\\/.*"
       ]
     }
   ],
@@ -36,8 +37,8 @@
     }
   ],
   "hashTable": {
-    "/index.html": "581f9059da7a8a7fb689f98b903c5f07d582c0df",
-    "/manifest.json": "72d386ce8b2753a5dce39f280ab1ac271a06f5a2"
+    "/index.html": "3d15e50cdc010a602dfe43e7a7763a04d532c5d6",
+    "/manifest.json": "f0d5fb4b3a9c6d08ff2e2c8a90e6e8baeeebfc1b"
   },
   "navigationUrls": [
     {
