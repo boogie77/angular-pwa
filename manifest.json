@@ -1,6 +1,6 @@
 {
     "name": "Coffee App - Give your customers something to talk about",
-    "start_url": "https://ngpwa.azurewebsites.net/",
+    "start_url": "https://nerdeveloper.github.io/angular-pwa/",
     "orientation": "any",
     "scope": "/",
     "display": "standalone",
